@@ -11,6 +11,6 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/ewerton-abrantes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/3883722595288705" target="blank"></a>
+  <a href="http://lattes.cnpq.br/3883722595288705" target="blank"><img src="https://memoria.cnpq.br/Portal-Lattes-theme/images/logo-lattes.png"</a>
   
 </div>
