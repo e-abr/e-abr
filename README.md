@@ -10,7 +10,9 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/ewerton-abrantes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lattes.cnpq.br/3883722595288705" target="_blank"><img src="https://img.shields.io/badge/-LATTES-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a | ></a>
+  <a href="https://www.linkedin.com/in/ewerton-abrantes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
 </div>
