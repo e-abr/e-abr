@@ -18,6 +18,7 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" /> &nbsp;
+  <img height="24" src="https://icon-sets.iconify.design/logos/seaborn.svg" /> &nbsp;
           
           
           
