@@ -12,7 +12,7 @@
           
   <br>
   <b>- Data Science frameworks</b> &nbsp;
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" /> &nbsp;
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> &nbsp;
