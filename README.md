@@ -2,7 +2,7 @@
 
 <div style="display: flex; gap: 12px; align-items: center;"><br>
   <b>- Linguagens de programação</b> &nbsp;
-  <img height="24" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 logo"> &nbsp;
+  <img height="24" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > &nbsp;
   <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
   <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
