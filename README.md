@@ -1,13 +1,13 @@
 ## Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
 
-<div style="display: flex; gap: 18px; align-items: center;"><br>
+<div style="display: flex; gap: 12px; align-items: center;"><br>
   <b>- Linguagens de programação</b>
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 logo">
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg">
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5 logo"> &nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
+  <img height="24" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"> &nbsp;
+  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
           
   <br>
