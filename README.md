@@ -1,6 +1,6 @@
 ## Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 12px; align-items: center;"><br>
   <b>- Linguagens de programação</b>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
