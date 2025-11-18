@@ -11,7 +11,7 @@
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
           
   <br>
-  <b>- Data Science frameworks</b> &nbsp;
+  <b>- Data Science frameworks</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" /> &nbsp;
   <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" /> &nbsp;
   <img height="24" src="https://cdn.simpleicons.org/scipy/2F5597" /> &nbsp;
