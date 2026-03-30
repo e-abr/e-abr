@@ -1,4 +1,5 @@
-# Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
+# Ewerton Abrantes
+📊 Analista de Dados | Data-Driven | Performance | Experiência em Agro e Dados Experimentais
 
 🎓 Graduado em Agroecologia<br>
 🎓 Mestrado em Horticultura Tropical<br>
