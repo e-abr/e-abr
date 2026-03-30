@@ -1,5 +1,16 @@
-## Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
+# Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
 
+🎓 Graduado em Agroecologia  
+🎓 Mestrado em Horticultura Tropical
+🎓 Doutorado em Ciência do Solo
+🎓 Pós-doutorado em Ciências Agrárias
+
+📊 Foco em análise de dados 
+
+## 🚀 Sobre mim
+Tenho experiência com análise de dados aplicados à ciência do solo e ambientais, utilizando estatística, regressão e visualização em R. Atualmente estou direcionando minhas habilidades para ciência de dados.
+
+## 🧠 Habilidades
 <div style="display: flex; gap: 12px; align-items: center;"><br>
   <b>- Linguagens de programação</b> &nbsp;
   <img height="24" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > &nbsp;
@@ -20,11 +31,7 @@
   <img height="24" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" /> &nbsp;
   <img height="24" title="Seaborn" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/seaborn-icon.svg" /> &nbsp;
   <img height="24" title="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" /> &nbsp;
-          
-          
-          
-          
-          
+         
           
 </div>
   
