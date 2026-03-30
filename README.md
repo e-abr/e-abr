@@ -2,8 +2,8 @@
 
 🎓 Graduado em Agroecologia<br>
 🎓 Mestrado em Horticultura Tropical<br>
-🎓 Doutorado em Ciência do Solo
-🎓 Pós-doutorado em Ciências Agrárias
+🎓 Doutorado em Ciência do Solo<br>
+🎓 Pós-doutorado em Ciências Agrárias<br>
 
 📊 Foco em análise de dados 
 
