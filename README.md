@@ -17,9 +17,9 @@
   <img height="24" title="Scipy" src="https://cdn.simpleicons.org/scipy/2F5597" /> &nbsp;
   <img height="24" title="Scikit-Learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" /> &nbsp;
   <img height="24" title="Tensorflow" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /> &nbsp;
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" /> &nbsp;
-  <img height="24" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/seaborn-icon.svg" /> &nbsp;
-  <img height="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" /> &nbsp;
+  <img height="24" title="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" /> &nbsp;
+  <img height="24" title="Seaborn" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/seaborn-icon.svg" /> &nbsp;
+  <img height="24" title="Plotly" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" /> &nbsp;
           
           
           
