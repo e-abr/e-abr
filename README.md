@@ -11,7 +11,7 @@
 Tenho experiência com análise de dados aplicados à ciência do solo e ambientais, utilizando estatística, regressão e visualização em R. Atualmente estou direcionando minhas habilidades para ciência de dados.
 
 ## 🧠 Habilidades
-<div style="display: flex; gap: 12px; align-items: center;"><br>
+<div style="display: flex; gap: 12px; align-items: center;">
   <b>- Linguagens de programação</b> &nbsp;
   <img height="24" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > &nbsp;
   <img height="24" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
