@@ -1,7 +1,7 @@
 # Olá, eu sou Ewerton Abrantes, analista de dados e entusiasta da tecnologia!
 
-🎓 Graduado em Agroecologia
-🎓 Mestrado em Horticultura Tropical
+🎓 Graduado em Agroecologia<br>
+🎓 Mestrado em Horticultura Tropical<br>
 🎓 Doutorado em Ciência do Solo
 🎓 Pós-doutorado em Ciências Agrárias
 
