@@ -9,15 +9,14 @@
 📊 Foco em análise de dados 
 
 ## 🚀 Sobre mim
-Tenho experiência com análise de dados aplicados à ciência do solo e ambientais, utilizando estatística, regressão e visualização em R. Atualmente estou direcionando minhas habilidades para ciência de dados.
+Pesquisador e profissional de AgTech com experiência em análise de dados aplicados à ciência do solo, sustentabilidade agrícola e experimentação agronômica.
+
+Atuo com análise estatística, visualização e interpretação de dados utilizando Python e R, com foco em agricultura sustentável, análise espacial e suporte à tomada de decisão baseada em dados.
 
 ## 🧠 Habilidades
 <div style="display: flex; gap: 12px; align-items: center;">
   <b>- Linguagens de programação</b> &nbsp;
-  <img height="24" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" > &nbsp;
-  <img height="24" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
   <img height="24" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp;
-  <img height="24" title="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> &nbsp;
   <img height="24" title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"> &nbsp;
   <img height="24" title="Postgre SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> &nbsp;
   <img height="24" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
